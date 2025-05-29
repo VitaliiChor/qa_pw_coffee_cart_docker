@@ -1,4 +1,4 @@
-# Composition for Coffee-Cart pages
+# Docker container for the Coffee-Cart testing
 
 ## Table of contents
 
